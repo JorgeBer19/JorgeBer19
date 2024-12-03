@@ -23,6 +23,7 @@ Soy Jorge, soy un apasionado de la informática. Me gusta probar diferentes sist
 <tr>
 <td width="50%">
 <h3 align="center">Curso Básico de Python</h3>
+<br>
 <div align="center">
 <a href="https://github.com/JorgeBer19/Curso-Pyhon" target="_blank"><img src="img/python.png" width="400" alt="Curso Básico de Python"></a>
 <p>
