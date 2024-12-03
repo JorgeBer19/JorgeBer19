@@ -49,6 +49,7 @@ Soy Jorge, soy un apasionado de la informática. Me gusta probar diferentes sist
 <tr>
 <td width="50%">
 <h3 align="center"> Auditoria del Sistema</h3>
+<br>
 <div align="center">
 <a href="https://github.com/JorgeBer19/SAD/blob/master/UT1/TAREA-2_Auditoria_Del_Sistema/Jorge_Bernal_Liarte_SAD_UT0_T2.pdf" target="_blank"><img src="img/auditoria.png" width="400" alt="Auditoria del Sistema"></a>
 <br>
