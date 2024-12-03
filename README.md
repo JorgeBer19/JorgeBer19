@@ -18,12 +18,12 @@ Soy Jorge, soy un apasionado de la informática. Me gusta probar diferentes sist
  -🧑‍💻<strong>Lenguajes de Programación:</strong>Python, HTML y CSS3.
 
 
-## Practicas 
+## Prácticas Destacadas
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Básico de Python</h3>
 <br>
+<h3 align="center">Curso Básico de Python</h3>
 <div align="center">
 <a href="https://github.com/JorgeBer19/Curso-Pyhon" target="_blank"><img src="img/python.png" width="400" alt="Curso Básico de Python"></a>
 <p>
@@ -40,7 +40,7 @@ Soy Jorge, soy un apasionado de la informática. Me gusta probar diferentes sist
 <a href="https://github.com/JorgeBer19/SAD/blob/master/UT3/TAREA_0_Verificaci%C3%B3n_De_Integidad_Con_Hash/Jorge_Bernal_Liarte_SAD_UT3_T0.pdf" target="_blank"><img src="img/hashi.png" width="400" height = "230" alt="Verificación de la integridad de archivos"></a>
 <p>
 
-</p>Esta practica consiste en saber como comprobar la integridad de ficheros en so Windows y Ubuntu con herramientas tales como <strong>CertUtil, QuickHash GUI, md5sum y sha256sum. </strong><br><br></p>
+</p>Esta práctica consiste en saber como comprobar la integridad de ficheros en so Windows y Ubuntu con herramientas tales como <strong>CertUtil, QuickHash GUI, md5sum y sha256sum. </strong><br><br></p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -49,13 +49,13 @@ Soy Jorge, soy un apasionado de la informática. Me gusta probar diferentes sist
 <table>
 <tr>
 <td width="50%">
-<h3 align="center"> Auditoria del Sistema</h3>
+<h3 align="center"> Auditoría del Sistema</h3>
 <br>
 <div align="center">
 <a href="https://github.com/JorgeBer19/SAD/blob/master/UT1/TAREA-2_Auditoria_Del_Sistema/Jorge_Bernal_Liarte_SAD_UT0_T2.pdf" target="_blank"><img src="img/auditoria.png" width="400" alt="Auditoria del Sistema"></a>
 <br>
 <br>
-<p>Esta practica consiste en la realización de auditorias en los sistemas operativos Windows 11 y Ubuntu 24.04 con <strong>Lynis,Nessus y CLARA </strong>.</p>
+<p>Esta práctica consiste en la realización de auditorías en los sistemas operativos Windows 11 y Ubuntu 24.04 con <strong>Lynis,Nessus y CLARA </strong>.</p>
 </div>
                                                                                   
 </td>       
@@ -66,10 +66,22 @@ Soy Jorge, soy un apasionado de la informática. Me gusta probar diferentes sist
 <a href="https://github.com/JorgeBer19/IAW/blob/main/UT1/TAREA-3_Instalaci%C3%B3n_Y_Configuraci%C3%B3n_De_Servidor_Web_Windows_Y_Linux/Jorge_Bernal_Liarte_IAW_UT0_T3.pdf" target="_blank"><img src="img/xampp.png" width="400" height = "230" alt="Instalación y Configuración Basica de Xampp Windows y Ubuntu"></a>
 <br>
 <br>
-<p>Esta practica consiste en instalar y configurar mínimamente un servidor de aplicaciones web que en este caso va a ser <strong>XAMPP</strong> en los sistemas Windows 11 y Ubuntu 24.04.</p>
+<p>Esta práctica consiste en instalar y configurar mínimamente un servidor de aplicaciones web que en este caso va a ser <strong>XAMPP</strong> en los sistemas Windows 11 y Ubuntu 24.04.</p>
 </div>
                                                                                       
 </td>  
 </table>                                                                                 
 </div>
 <br>
+
+<table align="center">
+<tr>
+<td align="center">
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JorgeBer19&show_icons=true&theme=city_lights)
+
+
+
+</td>
+</tr>
+</table>
