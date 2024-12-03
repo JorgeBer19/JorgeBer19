@@ -8,12 +8,15 @@ Soy Jorge, soy un apasionado de la informática. Me gusta probar diferentes sist
 
  En 2021 empecé a formarme en el ámbito de la informática realizando el grado medio de Sistemas Microinformáticos y Redes o también conocido como (SMR), el cual me sirvió para ampliar mis conocimientos en este ámbito y en la actualidad estoy cursando el segundo año del grado superior Administración en Sistemas Informáticos en Red (ASIR) en el cual espero ampliar y profundizar mis conocimientos.
 
-## Herramientas y Tecnologías que he utilizado alguna vez
+## Herramientas y Tecnologías que he utilizado durante mi formación
  -💻<strong>Sistemas Operativos:</strong> Windows 10 y 11, Windows Server, Ubuntu, Ubuntu Server, Debian, Kali Linux y Kali Purple, MacOS, iOS y Linux Mint
  <br>
- -⚒️<strong>Herramientas:</strong> Odoo, Worpress,Elementor, MySQL Workbench, Xampp, Nessus, CLARA, Lynis, Git, GitKraken, Github, Oracle Virtual Box, UTM, Visual Studio Code, ActiveDirectory, Clonecilla,Cisco Packet Tracer
+ -⚒️<strong>Herramientas:</strong> Odoo, Worpress,Elementor, MySQL Workbench, Xampp, Nessus, CLARA, Lynis, Git, GitKraken, Github, Oracle Virtual Box, UTM, Visual Studio Code, ActiveDirectory, Clonecilla,Cisco Packet Tracer.
  <br>
- -⚒️<strong>Aplicaciones Varias:</strong> Google Drive, Gmail, Google Docs, Notion, Discord, Likedin, 
+ -⚒️<strong>Aplicaciones Varias:</strong> Google Drive, Gmail, Google Docs, Notion, Discord, Likedin.
+ <br>
+ -🧑‍💻<strong>Lenguajes de Programación:</strong>Python, HTML y CSS3.
+
 
 ## Practicas 
 <table>
